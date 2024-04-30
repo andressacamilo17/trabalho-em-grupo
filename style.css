@@ -12,7 +12,7 @@ padding: 24px 0;
 }
 .cabeçalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
+    margin: 0 20px;
     font-size: 24px;
 }
 .escola-imagem{
@@ -41,6 +41,7 @@ padding: 24px 0;
      padding: 24px 0;
      font-size: 24px;  
     }
+ 
     .escola-texto-dois{
         padding: 24px 0;
         font-size: 24px;  
@@ -50,26 +51,26 @@ padding: 24px 0;
     }
     
     
-    .Turma-imagem{
+    .Turmas-imagem{
         width: 120px;
     }
     
-    .Turma-icone{
+    .Turmas-icone{
         width: 24px;
         padding: 4px 8px;
     }
     
-    .Turma-div{
+    .Turmas-div{
         text-align: center;
         padding: 16px 0;
     }
     
-    .Turma-titulo{
+    .Turmas-titulo{
         text-align: center;
         padding: 50px 0;
     }
     
-    .Turma-todos{
+    .Turmas-todos{
         display: grid;
         grid-template-columns: 20% 20% 20% 20% 20%;
     }
