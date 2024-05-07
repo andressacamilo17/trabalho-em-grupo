@@ -7,12 +7,12 @@ align-items: center;
 padding: 24px 0;
 }
 .cabeçalho-imagem{
-     width: 10%;
+     width: 18%;
 
 }
 .cabeçalho-lista-item{
-    display: flex ;
-    margin: 0 300px;
+    display: inline-block;
+    margin: 0 20px;
     font-size: 24px;
 }
 .escola-imagem{
@@ -34,7 +34,7 @@ padding: 24px 0;
     }
     
     .escola-titulo{
-     padding: 12px 0;  
+     padding: 24px 0;  
     }
     
     .escola-texto-um{
@@ -47,14 +47,12 @@ padding: 24px 0;
         font-size: 24px;  
        }
        .Turmas{
-        background-color: #33af67;
         padding: 24px 0;
-        
     }
     
     
     .Turmas-imagem{
-        width: 250px;
+        width: 120px;
     }
     
     .Turmas-icone{
@@ -77,7 +75,14 @@ padding: 24px 0;
         grid-template-columns: 20% 20% 20% 20% 20%;
     }
     
-    
+    .rodape{
+        background-color: black;
+        text-align: center;
+    }
+    .rodape-imagem{
+        height: 60px;
+        padding: 12px 0;
+    }
 
 
 
